@@ -154,10 +154,11 @@ This is the final step where the actual answer is formulated and presented to th
   The model processes this information and generates a coherent, contextually accurate answer, which is returned in the chat interface.
 
 
-  ## 🖼️ App Preview
+
+## App Preview
 
 Here's how the Chat with YouTube app looks in action:
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](Screenshot.png)
 
 
