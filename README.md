@@ -153,3 +153,11 @@ This is the final step where the actual answer is formulated and presented to th
   The final, augmented prompt (which includes the instructions, retrieved context, and the user's question) is sent to the `ChatOpenAI` model (e.g., GPT-3.5-Turbo).  
   The model processes this information and generates a coherent, contextually accurate answer, which is returned in the chat interface.
 
+
+  ## 🖼️ App Preview
+
+Here's how the Chat with YouTube app looks in action:
+
+![App Screenshot](assets/screenshot.png)
+
+
